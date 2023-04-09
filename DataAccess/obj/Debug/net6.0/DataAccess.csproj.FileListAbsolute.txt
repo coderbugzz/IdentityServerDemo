@@ -1,0 +1,28 @@
+E:\Project Sample\IdentityServerDemo\IdentityServerDemo\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+E:\Project Sample\IdentityServerDemo\IdentityServerDemo\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+E:\Project Sample\IdentityServerDemo\IdentityServerDemo\DataAccess\bin\Debug\net6.0\DataAccess.dll
+E:\Project Sample\IdentityServerDemo\IdentityServerDemo\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+E:\Project Sample\IdentityServerDemo\IdentityServerDemo\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+E:\Project Sample\IdentityServerDemo\IdentityServerDemo\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project Sample\IdentityServerDemo\IdentityServerDemo\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+E:\Project Sample\IdentityServerDemo\IdentityServerDemo\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+E:\Project Sample\IdentityServerDemo\IdentityServerDemo\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+E:\Project Sample\IdentityServerDemo\IdentityServerDemo\DataAccess\obj\Debug\net6.0\DataAccess.dll
+E:\Project Sample\IdentityServerDemo\IdentityServerDemo\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+E:\Project Sample\IdentityServerDemo\IdentityServerDemo\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+E:\Project Sample\IdentityServerDemo\IdentityServerDemo\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+E:\Project Sample\IdentityServerDemo\IdentityServerDemo\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+E:\Project Sample\IdentityServer - Final\IdentityServerDemo\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+E:\Project Sample\IdentityServer - Final\IdentityServerDemo\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+E:\Project Sample\IdentityServer - Final\IdentityServerDemo\DataAccess\bin\Debug\net6.0\DataAccess.dll
+E:\Project Sample\IdentityServer - Final\IdentityServerDemo\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+E:\Project Sample\IdentityServer - Final\IdentityServerDemo\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+E:\Project Sample\IdentityServer - Final\IdentityServerDemo\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project Sample\IdentityServer - Final\IdentityServerDemo\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+E:\Project Sample\IdentityServer - Final\IdentityServerDemo\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+E:\Project Sample\IdentityServer - Final\IdentityServerDemo\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+E:\Project Sample\IdentityServer - Final\IdentityServerDemo\DataAccess\obj\Debug\net6.0\DataAccess.dll
+E:\Project Sample\IdentityServer - Final\IdentityServerDemo\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+E:\Project Sample\IdentityServer - Final\IdentityServerDemo\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+E:\Project Sample\IdentityServer - Final\IdentityServerDemo\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+E:\Project Sample\IdentityServer - Final\IdentityServerDemo\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
