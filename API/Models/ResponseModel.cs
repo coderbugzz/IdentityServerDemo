@@ -1,4 +1,4 @@
-﻿namespace API.Model
+﻿namespace API.Models
 {
     public class ResponseModel<T>
     {
